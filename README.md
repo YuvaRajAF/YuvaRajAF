@@ -11,4 +11,4 @@ A developer 🖥️ from India.<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yuvarajaf&style=flat-square" alt="yuvarajaf" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yuvarajaf&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajaf&theme=dark"/></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajaf&theme=onedark"/></p>
