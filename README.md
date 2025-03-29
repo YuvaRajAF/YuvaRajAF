@@ -1,56 +1,48 @@
-# Welcome to My GitHub Universe!  
-## I’m YuvaRaj AF – UI/UX Designer by Day, Code Alchemist by Night  
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> Hey there, I'm YuvaRaj Vodiboina! 👋 </h1>
+    </summary>
+  </ul>
+</div>
 
----
 
-### About Me  
-I’m a passionate **UI/UX Designer** who believes that good design isn’t just eye candy—it’s a perfectly brewed potion of form and function. As a **Code Alchemist**, I wield the magic of Python, C, C++, HTML, and Java to turn ideas into reality. I’m also a **Digital Storyteller**, weaving narratives through pixels and code. When I’m not crafting interfaces or debugging, you’ll catch me gaming or diving into the latest tech trends.  
+**UI/UX Designer | Code Alchemist | Digital Storyteller**
 
-**Fun Fact:** UX designers are so obsessed with user experience that we’d redesign a ladder just to make climbing it feel like a VIP experience. Every rung, optimized!  
-**Quote:** *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs  
+- 🎨 Crafting intuitive and delightful user experiences.
+- 💻 Coding with flair in **Python**, **C**, **C++**, **HTML**, **Android Development**, and **Java**.
+- 🚀 Building cool and fun projects at [@InstanceReady](https://github.com/InstanceReady).
+- 🎮 Gamer at heart; always up for a challenge.
+- 📫 Let's connect: [Telegram](https://t.me/Atom_Yr) | [LinkedIn](https://www.linkedin.com/in/yuvarajvodiboina).
 
----
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-### Skills  
-| **Category**            | **Details**                       |  
-|-------------------------|-----------------------------------|  
-| **Programming Languages** | Python, C, C++, Java            |  
-| **Web Technologies**      | HTML, Android Development       |  
-| **Design**                | UI/UX Design                    |  
 
----
+| <a href="https://github.com/YuvaRajAF/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuvaRajAF&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/YuvaRajAF/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvaRajAF&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-### Featured Projects  
-Here’s a peek at my coding cauldron—beware, these might spark your curiosity!  
 
-- **[Space-Shooter](https://github.com/YuvaRajAF/Space-Shooter)**  
-  A thrilling space shooter game built with Python. Pew pew!  
+#### Fun Fact
 
-- **[flappy_bird](https://github.com/YuvaRajAF/flappy_bird)**  
-  A Python-powered clone of the infamous Flappy Bird. Flap responsibly.  
+Why did the UX designer bring a ladder to the project? To reach the high-fidelity prototypes! 😄
 
-- **[identi_flash](https://github.com/YuvaRajAF/identi_flash)**  
-  A Java-based tool for flash identification. Blink and you’ll miss it!  
+<br />
 
-- **[whats_automate](https://github.com/YuvaRajAF/whats_automate)**  
-  A Python script to automate WhatsApp messages. Because who has time to type?  
+💡 _"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs_
 
-- **[Chat_Room](https://github.com/YuvaRajAF/Chat_Room)**  
-  A simple HTML/JavaScript chat room app. Let’s talk code!  
 
----
-
-### Connect with Me  
-Got a collab idea, a question, or just want to geek out? I’m all ears (and pixels)!  
-
-- **[Telegram](https://t.me/Atom_Yr)** – Quick chats, no lag.  
-- **[LinkedIn](https://www.linkedin.com/in/yuvarajvodiboina)** – Professional vibes only.  
-- **[X](https://x.com/yuvaraj_vodi)** – Where I tweet about design and dank memes.  
-
----
-
-### GitHub Stats  
-Proof I don’t just talk the talk—I code the code!  
-![YuvaRajAF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuvaRajAF&show_icons=true&theme=radical)  
-
----
+<a href="https://x.com/yuvaraj_vodi">
+  <img align="right" alt="Yuvaraj | Twitter" width="21px" src="https://raw.githubusercontent.com/YuvaRajAF/YuvaRajAF/main/assets/x.png" />
+</a>
+<a href="https://www.linkedin.com/in/yuvarajvodiboina/">
+  <img align="right" alt="Yuvaraj | Linkedin" width="20px" src="https://raw.githubusercontent.com/YuvaRajAF/YuvaRajAF/main/assets/linkedin.png" />
+</a>
