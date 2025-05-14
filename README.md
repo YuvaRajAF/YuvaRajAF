@@ -7,13 +7,14 @@
 </div>
 
 
-**UI/UX Designer | Code Alchemist | Digital Storyteller**
+**Front-End Developer | UI/UX Designer | Code Alchemist | Digital Storyteller**
 
-- 🎨 Crafting intuitive and delightful user experiences.
-- 💻 Coding with flair in **Python**, **C**, **C++**, **HTML**, **Android Development**, and **Java**.
+- 🎨 Designing intuitive, user-centered digital interfaces with modern front-end practices.
+- 💻 Coding with flair in **Python**, **C**, **C++**, **HTML**, **Android Development**, and **Java Script**.
+- ⚙️ Tinkering with **Custom ROM Development** — optimizing and customizing Android experiences.
 - 🚀 Building cool and fun projects at [@InstanceReady](https://github.com/InstanceReady).
 - 🎮 Gamer at heart; always up for a challenge.
-- 📫 Let's connect: [Telegram](https://t.me/Atom_Yr) | [LinkedIn](https://www.linkedin.com/in/yuvarajvodiboina).
+- 📫 Let's connect: [Telegram](https://t.me/Atom_Yr) | [LinkedIn](https://www.linkedin.com/in/yuvarajvodiboina)
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
@@ -33,7 +34,7 @@
 
 #### Fun Fact
 
-Why did the UX designer bring a ladder to the project? To reach the high-fidelity prototypes! 😄
+Why did the front-end developer break up with the UX designer? Because they just weren’t on the same *page layout*! 😄
 
 <br />
 
