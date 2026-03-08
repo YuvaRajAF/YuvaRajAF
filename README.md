@@ -21,9 +21,9 @@ Software Engineer — building on the web.
 
 ### Links
 
-- 🌐 [yuvarajvodiboina.in](https://yuvarajvodiboina.in)
-- 💼 [LinkedIn](https://linkedin.com/in/yuvarajvodiboina)
-- 📬 yuvarajv952@gmail.com
+-  [yuvarajvodiboina.in](https://yuvarajvodiboina.in)
+-  [LinkedIn](https://linkedin.com/in/yuvarajvodiboina)
+-  yuvarajv952@gmail.com
 
 &nbsp;
 
