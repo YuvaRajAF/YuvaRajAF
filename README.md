@@ -7,18 +7,14 @@ Software Engineer — building on the web.
 - Grinding DSA in Python — Blind 75 → Neetcode 150
 - Studying System Design fundamentals
 - Building deep, not wide
-
 &nbsp;
-
 ### Stack
 
 **Languages** — Python, TypeScript, JavaScript  
 **Frontend** — React, Next.js, Tailwind CSS  
 **Tools** — Git, VS Code, Figma  
 **Learning** — DSA, System Design
-
 &nbsp;
-
 ### Links
 
 -  [yuvarajvodiboina.in](https://yuvarajvodiboina.in)
